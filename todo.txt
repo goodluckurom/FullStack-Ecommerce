@@ -1,0 +1,14 @@
+for the product details card, render the wishlist icon so that if the product exits in the wishlist it shows render
+render the cart icons everywhere in the app such that if the item exits in the cart it shows a different color, maybe render
+
+{do a slider in the home page for specific products with a banner on the top like banner for clothes and a slider with only clothes 
+and a link to take you to a category of clothes}
+
+{use framer motion to animate parts like the opening 
+and closing of the cart block and the wishlist block}
+{in the product page add a feture to zoom the side of the picture the mouse is on}
+{for the profile picture implement a feature to show the full profile image when it is clicked on }
+{for all the logins and sign ups add a picture to the background and make it responsive }
+{put an image in the activation page for both the user and the store}
+{add another button to the header to go straight to the store login}
+{for a logged in shop change the button to a store icon and add the shops avatar by the side }
